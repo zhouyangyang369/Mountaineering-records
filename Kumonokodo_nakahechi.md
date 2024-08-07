@@ -18,7 +18,8 @@
 
 - **9月28号**  徒步第三天 小云取越 （13km，纯步行时间预计4h30m）
 ![image](https://github.com/user-attachments/assets/8e2d9198-8835-4cb0-9822-f64792c2d843)
-    - 住宿在小口附近
+    - 住宿在小口附近，自然之家好像已经没有位置了，可以背帐篷住露营场
 
 - **9月29号**  徒步第四天 大云取越 （14.5km，纯步行时间预计5h10m）
 ![image](https://github.com/user-attachments/assets/06b7f920-ec63-4e6c-8392-8bd95ed2ef96)
+    - 在那智大社取车，自驾前往速玉大社，沿路盖章
