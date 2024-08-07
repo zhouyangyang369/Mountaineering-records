@@ -10,7 +10,7 @@
 
 - **9月26号**  徒步第一天 （16.9km，纯步行时间预计6h30m~7h）
 ![image](https://github.com/user-attachments/assets/d482f314-a6bc-45af-8e7d-77d441dba022)
-    - 住宿在近露王子或者継桜王子附近
+    - 住宿在近露王子 民宿：Guesthouse Housen 露营场：近露オートキャンプ場
 
 - **9月27号**  徒步第二天 （21.6km，纯步行时间预计6h30m~7h）
 ![image](https://github.com/user-attachments/assets/6b9efa26-46da-4751-9239-d3b7bfd66758)
