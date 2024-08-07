@@ -14,7 +14,7 @@
 
 - **9月27号**  徒步第二天 （21.6km，纯步行时间预计6h30m~7h）
 ![image](https://github.com/user-attachments/assets/6b9efa26-46da-4751-9239-d3b7bfd66758)
-    - 住宿在熊野本宫大社附近
+    - 住宿在熊野本宫大社旁边的**Kumano Backpackers**
 
 - **9月28号**  徒步第三天 小云取越 （13km，纯步行时间预计4h30m）
 ![image](https://github.com/user-attachments/assets/8e2d9198-8835-4cb0-9822-f64792c2d843)
