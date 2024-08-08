@@ -31,15 +31,15 @@
 
 - **9月26号**  徒步第一天 （16.9km，纯步行时间预计6h30m~7h）
 ![image](https://github.com/user-attachments/assets/d482f314-a6bc-45af-8e7d-77d441dba022)
-    - 入住**Guest House SUN**
+    - 采购食物，入住**Guest House SUN**
 
 - **9月27号**  徒步第二天 （21.6km，纯步行时间预计6h30m~7h）
 ![image](https://github.com/user-attachments/assets/6b9efa26-46da-4751-9239-d3b7bfd66758)
-    - 入住**Kumano Backpackers**
+    - 吃饭，采购食物，入住**Kumano Backpackers**
 
 - **9月28号**  徒步第三天 小云取越 （13km，纯步行时间预计4h30m）
 ![image](https://github.com/user-attachments/assets/8e2d9198-8835-4cb0-9822-f64792c2d843)
-    - 入住**Sansaro Cafe**
+    - 采购食物，入住**Sansaro Cafe**，吃饭
 
 - **9月29号**  徒步第四天 大云取越 （14.5km，纯步行时间预计5h10m）
 ![image](https://github.com/user-attachments/assets/06b7f920-ec63-4e6c-8392-8bd95ed2ef96)
