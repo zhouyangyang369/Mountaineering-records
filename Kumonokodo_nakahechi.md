@@ -39,7 +39,7 @@
 - **9月26号**  徒步第一天 （16.9km，纯步行时间预计6h30m~7h）
 - 早起坐巴士从紀伊田辺駅到滝尻王子 [路線バス時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Tanabe-Shirahama-to-Hongu-bus.pdf),可坐95番06:10出発,91番08:02出発
 ![image](https://github.com/user-attachments/assets/d482f314-a6bc-45af-8e7d-77d441dba022)
-    - 采购食物，入住**Guest House SUN**
+    - 采购食物，入住**女神の湯　アイリスパーク**
 
 - **9月27号**  徒步第二天 （21.6km，纯步行时间预计6h30m~7h）
 ![image](https://github.com/user-attachments/assets/6b9efa26-46da-4751-9239-d3b7bfd66758)
@@ -47,7 +47,7 @@
 
 - **9月28号**  徒步第三天 小云取越 （13km，纯步行时间预计4h30m）
 ![image](https://github.com/user-attachments/assets/8e2d9198-8835-4cb0-9822-f64792c2d843)
-    - 采购食物，入住**Sansaro Cafe**，吃饭
+    - 从小口坐bus前往川汤，采购食物，入住**温泉民宿 大村屋**
 
 - **9月29号**  徒步第四天 大云取越 （14.5km，纯步行时间预计5h10m）
 ![image](https://github.com/user-attachments/assets/06b7f920-ec63-4e6c-8392-8bd95ed2ef96)
