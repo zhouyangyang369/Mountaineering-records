@@ -56,10 +56,12 @@
     - 吃饭，采购食物，入住本宫大社旁边的**Kumano Backpackers**
 
 - **9月28号**  徒步第三天 小云取越 （13km，纯步行时间预计4h30m）
+    - [小雲取越.熊野本宮大社~小口map](http://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Kogumotori-goe.pdf)
 ![image](https://github.com/user-attachments/assets/8e2d9198-8835-4cb0-9822-f64792c2d843)
     - 从小口坐bus前往川汤，采购食物，入住**温泉民宿 大村屋**
 
 - **9月29号**  徒步第四天 大云取越 （14.5km，纯步行时间预计5h10m）
+    - [大雲取越.小口~熊野那智大社map](http://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Ogumotori-goe.pdf)
 ![image](https://github.com/user-attachments/assets/06b7f920-ec63-4e6c-8392-8bd95ed2ef96)
     - 如果25号有没盖到的章，那就开车从那智大社前往速玉大社，沿途补盖没盖到的章
     - 把印章本通过邮寄来申请发行完全踏破证明 [申請方法](https://assets.ctfassets.net/8kohjgazu1qe/5NaZKtelNl7tgiquVaIhmx/1419a8d4bc663aff8de2f1b978c3d3f9/nakahechi_touha_shoumeisho_2022_11.pdf)
