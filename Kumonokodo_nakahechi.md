@@ -58,7 +58,7 @@
 - **9月28号**  徒步第三天 小云取越 （13km，纯步行时间预计4h30m）
     - [小雲取越.熊野本宮大社~小口map](http://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Kogumotori-goe.pdf)
 ![image](https://github.com/user-attachments/assets/8e2d9198-8835-4cb0-9822-f64792c2d843)
-    - 从小口坐bus前往川汤，采购食物，入住**温泉民宿 大村屋**
+    - 从小口坐bus[时刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-Koguchi-Shingu-bus.pdf)前往川汤，采购食物，入住**温泉民宿 大村屋**
 
 - **9月29号**  徒步第四天 大云取越 （14.5km，纯步行时间预计5h10m）
     - [大雲取越.小口~熊野那智大社map](http://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Ogumotori-goe.pdf)
