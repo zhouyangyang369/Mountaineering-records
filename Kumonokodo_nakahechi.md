@@ -50,6 +50,8 @@
     - 采购食物，入住野中区域的近露王子附近的**女神の湯　アイリスパーク**
 
 - **9月27号**  徒步第二天 （21.6km，纯步行时间预计6h30m~7h）
+    - [継桜王子~発心門王子](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Tsugizakura-oji-Hosshinmon-oji.pdf)
+    - [発心門王子~熊野本宮大社](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Hongu.pdf)
 ![image](https://github.com/user-attachments/assets/6b9efa26-46da-4751-9239-d3b7bfd66758)
     - 吃饭，采购食物，入住本宫大社旁边的**Kumano Backpackers**
 
