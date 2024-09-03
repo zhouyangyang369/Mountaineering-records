@@ -42,8 +42,10 @@
     - 入住**ホテル紀伊田辺**
 
 #### [徒步信息和地图汇总](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Complete.pdf)
-- **9月26号**  徒步第一天 （16.9km，纯步行时间预计6h30m~7h）[滝尻王子~継桜王子マップ①](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Takijiri-oji-Takahara.pdf)    [滝尻王子~継桜王子マップ②](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Takahara-Tsugizakura-oji.pdf)
+- **9月26号**  徒步第一天 （16.9km，纯步行时间预计6h30m~7h）
 - 早起坐巴士从紀伊田辺駅到滝尻王子 [路線バス時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Tanabe-Shirahama-to-Hongu-bus.pdf)，可坐95番06:10出発或者91番08:02出発
+- [滝尻王子~継桜王子マップ①](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Takijiri-oji-Takahara.pdf)
+- [滝尻王子~継桜王子マップ②](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Takahara-Tsugizakura-oji.pdf)
 ![image](https://github.com/user-attachments/assets/d482f314-a6bc-45af-8e7d-77d441dba022)
     - 采购食物，入住野中区域的近露王子附近的**女神の湯　アイリスパーク**
 
