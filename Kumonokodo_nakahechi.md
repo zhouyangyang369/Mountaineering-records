@@ -14,11 +14,11 @@
 
 #### 小口往返川汤的路线bus[时刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-Koguchi-Shingu-bus.pdf)
 - 28号晚:
-    - Plan A: **小口乗65番号16:10--16:22**➡️**神丸乗換**➡️**53番号16:29--16:53 川湯温泉**
-    - Plan B: **小口乗63番号17:19--17:31**➡️**神丸乗換**➡️**51番号17:39--17:58 請川**
+    - Plan A: **[小口](https://maps.app.goo.gl/VE9nd9gxrkV8tZcD9)乗65番号16:10--16:22**➡️ **[神丸](https://maps.app.goo.gl/XbaULd21ddiAzH2PA)乗換**➡️**53番号16:29--16:53 [川湯温泉](https://maps.app.goo.gl/dT2u3E4XjWXVjstU9)**
+    - Plan B: **[小口](https://maps.app.goo.gl/VE9nd9gxrkV8tZcD9)乗63番号17:19--17:31**➡️ **[神丸](https://maps.app.goo.gl/XbaULd21ddiAzH2PA)乗換**➡️**51番号17:39--17:58 請川**
 - 29号早:
-    - Plan A: **川湯温泉乗53番号06:54--07:18**➡️**神丸乗換**➡️**65番号07:54--08:06** 川湯温泉
-    - Plan B: **川湯温泉から徒歩32分 請川51番号バス停**➡️**乗51番号07:31--07:50**➡️**神丸乗換**➡️**65番号07:54--08:06 川湯温泉**
+    - Plan A: **[川湯温泉](https://maps.app.goo.gl/dT2u3E4XjWXVjstU9)乗53番号06:54--07:18**➡️ **[神丸](https://maps.app.goo.gl/XbaULd21ddiAzH2PA)乗換**➡️**65番号07:54--08:06** 川湯温泉
+    - Plan B: **川湯温泉から徒歩32分 [請川51番号バス停](https://maps.app.goo.gl/pr7sFYS5YVrRDTEu8)**➡️**乗51番号07:31--07:50**➡️ **[神丸](https://maps.app.goo.gl/XbaULd21ddiAzH2PA)乗換**➡️**65番号07:54--08:06 川湯温泉**
 
 ### 行程计划
 - **9月25号**　**JR紀伊田辺駅集合** **[田辺市湊1-20](https://maps.app.goo.gl/bHGXLAvi174t2yWg8)**　买中辺路押印帳 [紀伊田辺駅前駐車場](https://maps.app.goo.gl/3vENDwTPzEKb1BJn7) [ホテル紀伊田辺駐車場](https://maps.app.goo.gl/ARkGXgMMBmu7bh4t6) 
