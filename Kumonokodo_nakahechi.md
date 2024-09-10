@@ -21,7 +21,7 @@
     - Plan B: **川湯温泉から徒歩32分 請川51番号バス停**➡️**乗51番号07:31--07:50**➡️**神丸乗換**➡️**65番号07:54--08:06 川湯温泉**
 
 ### 行程计划
-- **9月25号**　**JR紀伊田辺駅集合** **[田辺市湊1-20](https://maps.app.goo.gl/bHGXLAvi174t2yWg8)** 买中辺路押印帳
+- **9月25号**　**JR紀伊田辺駅集合** **[田辺市湊1-20](https://maps.app.goo.gl/bHGXLAvi174t2yWg8)** [紀伊田辺駅前駐車場](https://maps.app.goo.gl/3vENDwTPzEKb1BJn7) [ホテル紀伊田辺駐車場](https://maps.app.goo.gl/ARkGXgMMBmu7bh4t6) 买中辺路押印帳
 - 中边路共41处盖章地，其中有五个盖章在岔路上，徒步会额外花费很多时间，所以第一天主要是队伍集合以及自驾盖岔路上的章　
     - **[稲葉根王子神社](https://maps.app.goo.gl/Xb331PunCan1XVX17)**　（第一个岔路的章）
     - **[北郡越 押印所](https://maps.app.goo.gl/Ck6HqqUMo82RrZwS7)**　（第二个岔路的章）
