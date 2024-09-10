@@ -39,7 +39,7 @@
     - **[市野野王子跡](https://maps.app.goo.gl/UM7Zx2K3VbSaFYp47)** 24h　[公衆トイレ](https://maps.app.goo.gl/Qe9H9wH56kwEqWru7)
     - 把车停到那智大社旁边免费的 **[大門坂 駐車場](https://maps.app.goo.gl/1JdhYFAdCCCKcWm56)**
     - **[大門坂茶屋](https://maps.app.goo.gl/x4CUthqA5SA1aRhh6)** 24h **[大門坂 駐車場](https://maps.app.goo.gl/1JdhYFAdCCCKcWm56)**
-    - **[大門坂](https://maps.app.goo.gl/begJN9w6rYpV9ZBr7)**(31那智山線，480円,末班车18:11)➡️ **[紀伊勝浦駅](https://maps.app.goo.gl/QWuSx3LsX2tw6HrLA)**(きのくい線) ➡️ **紀伊田辺駅**　（交通时长:2h45m）[交通示意图参考链接](https://www.tb-kumano.jp/kumano-kodo/kodo-bustimetable/) [巴士时刻表](https://www2.tb-kumano.jp/en/transport/pdf/Nachi-Kii-Katsuura-bus.pdf)
+    - **[大門坂](https://maps.app.goo.gl/begJN9w6rYpV9ZBr7)**(31那智山線，480円,末班车18:11)➡️ **[紀伊勝浦駅](https://maps.app.goo.gl/QWuSx3LsX2tw6HrLA)**(きのくい線) ➡️ **[紀伊田辺駅](https://maps.app.goo.gl/GziwJqnFfi4LxvUbA)**　（交通时长:2h45m）[交通示意图参考链接](https://www.tb-kumano.jp/kumano-kodo/kodo-bustimetable/) [巴士时刻表](https://www2.tb-kumano.jp/en/transport/pdf/Nachi-Kii-Katsuura-bus.pdf)
     - 入住 **[ホテル紀伊田辺](https://maps.app.goo.gl/TwioHERFhmav1Xqa8)**
 
 #### [徒步信息和地图汇总](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Complete.pdf)
