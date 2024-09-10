@@ -53,25 +53,25 @@
       
 #### [熊野古道巴士时间表汇总](https://www.tb-kumano.jp/kumano-kodo/kodo-bustimetable/)
 #### [中边路徒步信息和地图汇总](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Complete.pdf)
-- **9月26号**  徒步第一天 （16.9km，纯步行时间预计6h30m~7h）
+- **9月26号**  徒步第一天
     - 早起坐巴士从紀伊田辺駅到滝尻王子 [路線バス時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Tanabe-Shirahama-to-Hongu-bus.pdf)，可坐**81番06:16**, **95番06:50** ,**91番08:02**出発 **[2番乗り場](https://maps.app.goo.gl/5nZE7um6aP1KALrHA)**
     - [滝尻王子~継桜王子map①](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Takijiri-oji-Takahara.pdf)
     - [滝尻王子~継桜王子map②](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Takahara-Tsugizakura-oji.pdf)
 ![image](https://github.com/user-attachments/assets/d482f314-a6bc-45af-8e7d-77d441dba022)
     - 采购食物，入住野中区域的近露王子附近的**女神の湯　アイリスパーク**
 
-- **9月27号**  徒步第二天 （21.6km，纯步行时间预计6h30m~7h）
+- **9月27号**  徒步第二天
     - [継桜王子~発心門王子map](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Tsugizakura-oji-Hosshinmon-oji.pdf)
     - [発心門王子~熊野本宮大社map](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Hongu.pdf)
 ![image](https://github.com/user-attachments/assets/6b9efa26-46da-4751-9239-d3b7bfd66758)
     - 吃饭，采购食物，入住本宫大社旁边的**Kumano Backpackers**
 
-- **9月28号**  徒步第三天 小云取越 （13km，纯步行时间预计4h30m）
+- **9月28号**  徒步第三天 小云取越
     - [小雲取越.熊野本宮大社~小口map](http://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Kogumotori-goe.pdf)
 ![image](https://github.com/user-attachments/assets/8e2d9198-8835-4cb0-9822-f64792c2d843)
     - 从小口坐bus[时刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-Koguchi-Shingu-bus.pdf)前往川汤，采购食物，入住**温泉民宿 大村屋**
 
-- **9月29号**  徒步第四天 大云取越 （14.5km，纯步行时间预计5h10m）
+- **9月29号**  徒步第四天 大云取越
     - [大雲取越.小口~熊野那智大社map](http://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Ogumotori-goe.pdf)
 ![image](https://github.com/user-attachments/assets/06b7f920-ec63-4e6c-8392-8bd95ed2ef96)
     - 如果25号有没盖到的章，那就开车从那智大社前往速玉大社，沿途补盖没盖到的章
