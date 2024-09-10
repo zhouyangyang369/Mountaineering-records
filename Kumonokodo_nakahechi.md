@@ -23,7 +23,7 @@
 ### 行程计划
 - **9月25号**　**JR紀伊田辺駅集合** **[田辺市湊1-20](https://maps.app.goo.gl/bHGXLAvi174t2yWg8)**　买中辺路押印帳 [紀伊田辺駅前駐車場](https://maps.app.goo.gl/3vENDwTPzEKb1BJn7) [ホテル紀伊田辺駐車場](https://maps.app.goo.gl/ARkGXgMMBmu7bh4t6) 
 - 中边路共41处盖章地，其中有五个盖章在岔路上，徒步会额外花费很多时间，所以第一天主要是队伍集合以及自驾盖岔路上的章　
-    - **[稲葉根王子神社](https://maps.app.goo.gl/Xb331PunCan1XVX17)**　（第一个岔路的章）
+    - **[稲葉根王子神社](https://maps.app.goo.gl/Xb331PunCan1XVX17)**　（第一个岔路的章）[バリューハウス 富田川店](https://maps.app.goo.gl/Dj3SFpXnAG7Y7cKBA)
     - **[北郡越 押印所](https://maps.app.goo.gl/Ck6HqqUMo82RrZwS7)**　（第二个岔路的章）
     - **[潮見峠越 押印所](https://maps.app.goo.gl/sqLrfhLrRdzBKz198)** （第三个岔路的章）
     - **[湯峯王子 押印所](https://maps.app.goo.gl/nv4dyvxnK1xu5AuJ6)** （第四个岔路的章）
