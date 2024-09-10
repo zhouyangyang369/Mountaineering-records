@@ -41,8 +41,9 @@
     - **[大門坂茶屋](https://maps.app.goo.gl/x4CUthqA5SA1aRhh6)** 24h **[大門坂 駐車場](https://maps.app.goo.gl/1JdhYFAdCCCKcWm56)**
     - **[大門坂](https://maps.app.goo.gl/begJN9w6rYpV9ZBr7)**(31那智山線，480円,末班车18:11)➡️ **[紀伊勝浦駅](https://maps.app.goo.gl/QWuSx3LsX2tw6HrLA)**(きのくい線) ➡️ **[紀伊田辺駅](https://maps.app.goo.gl/GziwJqnFfi4LxvUbA)**　（交通时长:2h45m）[交通示意图参考链接](https://www.tb-kumano.jp/kumano-kodo/kodo-bustimetable/) [巴士时刻表](https://www2.tb-kumano.jp/en/transport/pdf/Nachi-Kii-Katsuura-bus.pdf)
     - 入住 **[ホテル紀伊田辺](https://maps.app.goo.gl/TwioHERFhmav1Xqa8)**
-
-#### [徒步信息和地图汇总](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Complete.pdf)
+      
+#### [熊野古道巴士时间表汇总](https://www.tb-kumano.jp/kumano-kodo/kodo-bustimetable/)
+#### [中边路徒步信息和地图汇总](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Complete.pdf)
 - **9月26号**  徒步第一天 （16.9km，纯步行时间预计6h30m~7h）
     - 早起坐巴士从紀伊田辺駅到滝尻王子 [路線バス時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Tanabe-Shirahama-to-Hongu-bus.pdf)，可坐**81番06:16**, **95番06:50** ,**91番08:02**出発 **[2番乗り場](https://maps.app.goo.gl/5nZE7um6aP1KALrHA)**
     - [滝尻王子~継桜王子map①](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Takijiri-oji-Takahara.pdf)
@@ -113,6 +114,6 @@
 ### 补充事项
 - [服装和气温](https://www.kumano-guesthouse.com/kumanokodo_chui_kumanohongutouristassociation.pdf)
 - 在近露王子，本宫，川汤预定的住宿也有可能出现没房的意外情况，所以每天都尽可能在终点处bus的末班车时间前到达目的地，这样即使住宿没房，也还可以坐bus前往市区投宿。可于每天中午打电话确认空房情况以及告知预计到达时间。
-    - 26晚:近露王子➡️紀伊田辺駅　**龍神80番17:34**
-    - 27晚:本宮大社前➡️紀伊田辺駅　**龍神80番16:40**
-    - 28晚:小口➡️神丸➡️新宮駅 **63番17:19-17:31**➡️**51番号18:00-18:34**
+    - 26号末班车:近露王子➡️紀伊田辺駅　**龍神80番17:34-18:50** **[時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-to-Tanabe-Shirahama-bus.pdf)**
+    - 27号末班车:本宮大社前➡️紀伊田辺駅　**龍神80番16:40-18:50** **[時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-to-Tanabe-Shirahama-bus.pdf)**
+    - 28号末班车:小口➡️神丸➡️新宮駅 **63番17:19-17:31**➡️**51番号18:00-18:34** **[時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-Koguchi-Shingu-bus.pdf)**
