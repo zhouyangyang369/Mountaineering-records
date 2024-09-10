@@ -24,8 +24,8 @@
 - **9月25号**　**JR紀伊田辺駅集合** **[田辺市湊1-20](https://maps.app.goo.gl/bHGXLAvi174t2yWg8)**　买中辺路押印帳 [紀伊田辺駅前駐車場](https://maps.app.goo.gl/3vENDwTPzEKb1BJn7) [ホテル紀伊田辺駐車場](https://maps.app.goo.gl/ARkGXgMMBmu7bh4t6) 
 - 中边路共41处盖章地，其中有五个盖章在岔路上，徒步会额外花费很多时间，所以第一天主要是队伍集合以及自驾盖岔路上的章　
     - **[稲葉根王子神社](https://maps.app.goo.gl/Xb331PunCan1XVX17)**　（第一个岔路的章）[バリューハウス 富田川店](https://maps.app.goo.gl/Dj3SFpXnAG7Y7cKBA)駐車場
-    - **[北郡越 押印所](https://maps.app.goo.gl/Ck6HqqUMo82RrZwS7)**　（第二个岔路的章）
-    - **[潮見峠越 押印所](https://maps.app.goo.gl/sqLrfhLrRdzBKz198)** （第三个岔路的章）
+    - **[北郡越 押印所](https://maps.app.goo.gl/Ck6HqqUMo82RrZwS7)**　（第二个岔路的章）车停附近
+    - **[潮見峠越 押印所](https://maps.app.goo.gl/sqLrfhLrRdzBKz198)** （第三个岔路的章）车停附近
     - **[湯峯王子 押印所](https://maps.app.goo.gl/nv4dyvxnK1xu5AuJ6)** （第四个岔路的章）[湯の峰温泉駐車場](https://maps.app.goo.gl/g3rgiXbb97we9ZiQA)
     - **[紀伊半島大水害の碑](https://maps.app.goo.gl/d2xspowhCxXk7hrm7)**（第五个岔路的章,別称: 川の熊野古道）[駐車場](https://maps.app.goo.gl/m5hAXnkaEueYqxnp6)
 - 考虑到第四天走完大云取越会比较累，可能没有精力和时间完成位于那智大社和速玉大社之间的盖章，所以在在第一天扫盲岔路章顺路去那智大社停车的路上，尽量完成那智大社和速玉大社之间的盖章
@@ -33,12 +33,12 @@
     - **[神倉神社](https://maps.app.goo.gl/A32Ep7zF4EjvPbkt9)**　24h [神倉神社 第1駐車場](https://maps.app.goo.gl/jtN7EDZHzzZmerTs6)
     - **[阿須賀神社](https://maps.app.goo.gl/H16v25m7P6ZC2Qqs9)** 9:00-16:00 神社门口 [阿須賀神社 駐車場](https://maps.app.goo.gl/xppmbjyNDkMRnca69)
     - **[高野坂押印所](https://maps.app.goo.gl/NZaRMif5ifE1BPXn6)**　24h 警察局后面　[高森展望所 駐車場](https://maps.app.goo.gl/Fyrk1c8hDSGe2vx88)
-    - **[小狗子峠 押印所](https://maps.app.goo.gl/sZWxyug1VEkN3HCf9)**　24h
+    - **[小狗子峠 押印所](https://maps.app.goo.gl/sZWxyug1VEkN3HCf9)**　24h 车停附近
     - **[浜の宮王子跡](https://maps.app.goo.gl/3q98cACrryDFj6x76)**　24h　[渚の森駐車場](https://maps.app.goo.gl/aDhNByD5QWntXAby7)
-    - **[補陀洛山寺](https://maps.app.goo.gl/8Q1MapiVzhvVmhdC9)**　24h 同じ駐車場⬆️
+    - **[補陀洛山寺](https://maps.app.goo.gl/8Q1MapiVzhvVmhdC9)**　24h [渚の森駐車場](https://maps.app.goo.gl/aDhNByD5QWntXAby7)
     - **[市野野王子跡](https://maps.app.goo.gl/UM7Zx2K3VbSaFYp47)** 24h　[公衆トイレ](https://maps.app.goo.gl/Qe9H9wH56kwEqWru7)
     - 把车停到那智大社旁边免费的 **[大門坂 駐車場](https://maps.app.goo.gl/1JdhYFAdCCCKcWm56)**
-    - **[大門坂茶屋](https://maps.app.goo.gl/x4CUthqA5SA1aRhh6)** 24h
+    - **[大門坂茶屋](https://maps.app.goo.gl/x4CUthqA5SA1aRhh6)** 24h **[大門坂 駐車場](https://maps.app.goo.gl/1JdhYFAdCCCKcWm56)**
     - **[大門坂](https://maps.app.goo.gl/begJN9w6rYpV9ZBr7)**(31那智山線，480円,末班车18:11)➡️ **紀伊勝浦駅**(きのくい線) ➡️ **紀伊田辺駅**　（交通时长:2h45m）[交通示意图参考链接](https://www.tb-kumano.jp/kumano-kodo/kodo-bustimetable/) [巴士时刻表](https://www2.tb-kumano.jp/en/transport/pdf/Nachi-Kii-Katsuura-bus.pdf)
     - 入住 **[ホテル紀伊田辺](https://maps.app.goo.gl/TwioHERFhmav1Xqa8)**
 
