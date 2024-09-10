@@ -31,12 +31,12 @@
     - **[紀伊半島大水害の碑](https://maps.app.goo.gl/d2xspowhCxXk7hrm7)**（第五个岔路的章,別称: 川の熊野古道）
 - 考虑到第四天走完大云取越会比较累，可能没有精力和时间完成位于那智大社和速玉大社之间的盖章，所以在在第一天扫盲岔路章顺路去那智大社停车的路上，尽量完成那智大社和速玉大社之间的盖章
     - **[熊野速玉大社](https://maps.app.goo.gl/rmECTqUw7Dso4aHn8)**　进门左手 [熊野速玉大社 参拝者駐車場](https://maps.app.goo.gl/pujKyPJrwgwTWTNH6)
-    - **阿須賀神社** 9:00-16:00 神社门口
-    - **高野坂**　24h 警察局后面
-    - **神倉神社**　24h
-    - **小狗子峠 押印所**　24h
-    - **浜の宮王子跡**　24h
-    - **補陀洛山寺**　24h
+    - **[神倉神社](https://maps.app.goo.gl/A32Ep7zF4EjvPbkt9)**　24h [神倉神社 第1駐車場](https://maps.app.goo.gl/jtN7EDZHzzZmerTs6)
+    - **[阿須賀神社](https://maps.app.goo.gl/H16v25m7P6ZC2Qqs9)** 9:00-16:00 神社门口 [阿須賀神社 駐車場](https://maps.app.goo.gl/xppmbjyNDkMRnca69)
+    - **[高野坂押印所](https://maps.app.goo.gl/NZaRMif5ifE1BPXn6)**　24h 警察局后面　[高森展望所 駐車場](https://maps.app.goo.gl/Fyrk1c8hDSGe2vx88)
+    - **[小狗子峠 押印所](https://maps.app.goo.gl/sZWxyug1VEkN3HCf9)**　24h
+    - **[浜の宮王子跡](https://maps.app.goo.gl/3q98cACrryDFj6x76)**　24h　[渚の森駐車場](https://maps.app.goo.gl/aDhNByD5QWntXAby7)
+    - **[補陀洛山寺](https://maps.app.goo.gl/8Q1MapiVzhvVmhdC9)**　24h 同じ駐車場⬆️
     - **[大門坂茶屋](https://maps.app.goo.gl/x4CUthqA5SA1aRhh6)** 24h
     - **[市野野王子跡](https://maps.app.goo.gl/UM7Zx2K3VbSaFYp47)** 24h
     - 把车停到那智大社旁边免费的 **[大門坂 駐車場](https://maps.app.goo.gl/1JdhYFAdCCCKcWm56)**
