@@ -57,7 +57,7 @@
     - 早起坐巴士从紀伊田辺駅到滝尻王子 [路線バス時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Tanabe-Shirahama-to-Hongu-bus.pdf)，**[2番乗り場](https://maps.app.goo.gl/5nZE7um6aP1KALrHA)** **(车费:970)**
         - **81番06:16-06:52**
         - **95番06:50-07:28**
-        - **91番08:02-08:40**出発
+        - **91番08:02-08:40**
     - [滝尻王子~継桜王子map①](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Takijiri-oji-Takahara.pdf)
     - [滝尻王子~継桜王子map②](https://www2.tb-kumano.jp/kumano-kodo/pdf/Kumano-Kodo-Nakahechi-Route-Maps-Takahara-Tsugizakura-oji.pdf)
 ![image](https://github.com/user-attachments/assets/d482f314-a6bc-45af-8e7d-77d441dba022)
