@@ -124,5 +124,5 @@
 - [服装和气温](https://www.kumano-guesthouse.com/kumanokodo_chui_kumanohongutouristassociation.pdf)
 - 在近露王子，本宫，川汤预定的住宿也有可能出现没房的意外情况，所以每天都尽可能在终点处bus的末班车时间前到达目的地，这样即使住宿没房，也还可以坐bus前往市区投宿。可于每天中午打电话确认空房情况以及告知预计到达时间。
     - 26号末班车:近露王子➡️紀伊田辺駅　**[龍神80番](https://maps.app.goo.gl/mPnJFBbdS9W4bCDD9)17:34-18:50** **[時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-to-Tanabe-Shirahama-bus.pdf)**
-    - 27号末班车:本宮大社前➡️紀伊田辺駅　**[龍神80番](https://maps.app.goo.gl/mPnJFBbdS9W4bCDD9)16:40-18:50** **[時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-to-Tanabe-Shirahama-bus.pdf)**
-    - 28号末班车:小口➡️神丸➡️新宮駅 **[小口63番](https://maps.app.goo.gl/VE9nd9gxrkV8tZcD9)17:19-17:31**➡️ **[神丸51番](https://maps.app.goo.gl/XbaULd21ddiAzH2PA)18:00-18:34** **[時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-Koguchi-Shingu-bus.pdf)**
+    - 27号末班车:本宮大社前➡️紀伊田辺駅　**[龍神80番](https://maps.app.goo.gl/mPnJFBbdS9W4bCDD9)16:40-18:50** **[時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-to-Tanabe-Shirahama-bus.pdf)** **(车费:2100)**
+    - 28号末班车:小口➡️神丸➡️新宮駅 **[小口63番](https://maps.app.goo.gl/VE9nd9gxrkV8tZcD9)17:19-17:31**➡️ **[神丸51番](https://maps.app.goo.gl/XbaULd21ddiAzH2PA)18:00-18:34** **[時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-Koguchi-Shingu-bus.pdf)** **(车费:100+930)**
