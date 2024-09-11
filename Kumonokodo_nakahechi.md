@@ -37,7 +37,7 @@
     - **[潮見峠越 押印所](https://maps.app.goo.gl/sqLrfhLrRdzBKz198)** （第三个岔路的章）车停附近
     - **[湯峯王子 押印所](https://maps.app.goo.gl/nv4dyvxnK1xu5AuJ6)** （第四个岔路的章）[湯の峰温泉駐車場](https://maps.app.goo.gl/g3rgiXbb97we9ZiQA)
     - **[紀伊半島大水害の碑](https://maps.app.goo.gl/d2xspowhCxXk7hrm7)**（第五个岔路的章,別称: 川の熊野古道）[駐車場](https://maps.app.goo.gl/m5hAXnkaEueYqxnp6)
-- 考虑到第四天走完大云取越会比较累，可能没有精力和时间完成位于那智大社和速玉大社之间的盖章，所以在在第一天扫盲岔路章顺路去那智大社停车的路上，尽量完成那智大社和速玉大社之间的盖章
+- 考虑到第四天走完大云取越会比较累，可能没有精力和时间完成位于那智大社和速玉大社之间的盖章，所以在在第一天扫盲岔路章的同时，顺路去那智大社停车的路上，尽量完成那智大社和速玉大社之间的盖章
     - **[熊野速玉大社](https://maps.app.goo.gl/rmECTqUw7Dso4aHn8)**　进门左手 [熊野速玉大社 参拝者駐車場](https://maps.app.goo.gl/pujKyPJrwgwTWTNH6)
     - **[神倉神社](https://maps.app.goo.gl/A32Ep7zF4EjvPbkt9)**　24h [神倉神社 第1駐車場](https://maps.app.goo.gl/jtN7EDZHzzZmerTs6)
     - **[阿須賀神社](https://maps.app.goo.gl/H16v25m7P6ZC2Qqs9)** 9:00-16:00 神社门口 [阿須賀神社 駐車場](https://maps.app.goo.gl/xppmbjyNDkMRnca69)
