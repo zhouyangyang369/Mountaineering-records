@@ -129,3 +129,25 @@
     - 26号末班车:近露王子➡️紀伊田辺駅　**[龍神80番](https://maps.app.goo.gl/mPnJFBbdS9W4bCDD9)17:34-18:50** **[時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-to-Tanabe-Shirahama-bus.pdf)** **(车费:不明)**
     - 27号末班车:本宮大社前➡️紀伊田辺駅　**[龍神80番](https://maps.app.goo.gl/mPnJFBbdS9W4bCDD9)16:40-18:50** **[時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-to-Tanabe-Shirahama-bus.pdf)** **(车费:2100)**
     - 28号末班车:小口➡️神丸➡️新宮駅 **[小口63番](https://maps.app.goo.gl/VE9nd9gxrkV8tZcD9)17:19-17:31**➡️ **[神丸51番](https://maps.app.goo.gl/XbaULd21ddiAzH2PA)18:00-18:34** **[時刻表](https://www2.tb-kumano.jp/en/transport/pdf/Hongu-Koguchi-Shingu-bus.pdf)** **(车费:100+930)**
+
+### 行程费用预估
+#### 住宿费
+
+|  | 25日 | 26日 | 27日 | 28日 | **总计** |
+| --- | --- | --- | --- | --- | --- |
+| 费用 | 7800 | 6610 | 4000 | 11000 | **29410円** |
+
+
+#### 自驾高速费和燃油费估算,实行四舍五入制
+- 高速费根据[西日本高速料金・ルート検索](https://search.w-nexco.co.jp/)进行估算
+- 燃油费根据出发时的车载记录的 **百公里油耗(16.1km/L)** 进行估算
+- 使用的燃油价格为2024年09月初，家附近加油站的价格**160円/L**
+
+| 种类 | 家-長原駅(138km) | 長原駅-紀伊田辺駅(134km) | 紀伊田辺駅-大門坂駐車場(125.3km) | **总计** |
+| --- | --- | --- | --- | --- |
+| 高速 | 1870 | 3940 | 0 | **5810円** |
+| 燃油 | 1371 | 1332 | 1245 | **3948円** |
+
+#### 公共交通费（bus，电车）
+#### 餐费
+
