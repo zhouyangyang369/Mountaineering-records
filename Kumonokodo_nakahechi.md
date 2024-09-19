@@ -30,7 +30,7 @@
     - Plan B: **[川湯温泉](https://maps.app.goo.gl/dT2u3E4XjWXVjstU9)から徒歩32分 [請川51番号バス停](https://maps.app.goo.gl/pr7sFYS5YVrRDTEu8)**➡️**乗51番号07:31--07:50**➡️ **[神丸](https://maps.app.goo.gl/XbaULd21ddiAzH2PA)乗換**➡️**65番号07:54--08:06 [小口](https://maps.app.goo.gl/VE9nd9gxrkV8tZcD9)** **(车费:730+100)**
 
 ### 行程计划
-- **9月25号**　**JR紀伊田辺駅集合** **[田辺市湊1-20](https://maps.app.goo.gl/bHGXLAvi174t2yWg8)**　买中辺路押印帳 [紀伊田辺駅前駐車場](https://maps.app.goo.gl/3vENDwTPzEKb1BJn7) [ホテル紀伊田辺駐車場](https://maps.app.goo.gl/ARkGXgMMBmu7bh4t6) 
+- **9月25号**　**JR紀伊田辺駅集合** **[田辺市湊1-20](https://maps.app.goo.gl/bHGXLAvi174t2yWg8)**　买中辺路押印帳 [紀伊田辺駅前駐車場](https://maps.app.goo.gl/3vENDwTPzEKb1BJn7) [ホテル紀伊田辺駐車場](https://maps.app.goo.gl/ARkGXgMMBmu7bh4t6) [田辺市立紀伊田辺駅前第二駐車場](https://maps.app.goo.gl/WLtu6WAssWgkQ4Vo8)
 - 中边路共41处盖章地，其中有五个盖章在岔路上，徒步会额外花费很多时间，所以第一天主要是队伍集合以及自驾盖岔路上的章　
     - **[稲葉根王子神社](https://maps.app.goo.gl/Xb331PunCan1XVX17)**　（第一个岔路的章）[バリューハウス 富田川店](https://maps.app.goo.gl/Dj3SFpXnAG7Y7cKBA)駐車場
     - **[北郡越 押印所](https://maps.app.goo.gl/Ck6HqqUMo82RrZwS7)**　（第二个岔路的章）车停附近
