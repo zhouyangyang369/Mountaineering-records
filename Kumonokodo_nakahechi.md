@@ -41,7 +41,7 @@
     - **[熊野速玉大社](https://maps.app.goo.gl/rmECTqUw7Dso4aHn8)**　进门左手 [熊野速玉大社 参拝者駐車場](https://maps.app.goo.gl/pujKyPJrwgwTWTNH6)
     - **[神倉神社](https://maps.app.goo.gl/A32Ep7zF4EjvPbkt9)**　24h [神倉神社 第1駐車場](https://maps.app.goo.gl/jtN7EDZHzzZmerTs6)
     - **[阿須賀神社](https://maps.app.goo.gl/H16v25m7P6ZC2Qqs9)** 9:00-16:00 神社门口 [阿須賀神社 駐車場](https://maps.app.goo.gl/xppmbjyNDkMRnca69)
-    - **[高野坂押印所](https://maps.app.goo.gl/NZaRMif5ifE1BPXn6)**　24h 警察局后面　[高森展望所 駐車場](https://maps.app.goo.gl/Fyrk1c8hDSGe2vx88)
+    - **[高野坂押印所](https://maps.app.goo.gl/NZaRMif5ifE1BPXn6)**　24h 警察局后面　[駐車地](https://maps.app.goo.gl/5uDEktvxS1APrpzdA)
     - **[小狗子峠 押印所](https://maps.app.goo.gl/sZWxyug1VEkN3HCf9)**　24h 车停附近
     - **[浜の宮王子跡](https://maps.app.goo.gl/3q98cACrryDFj6x76)**　24h　[渚の森駐車場](https://maps.app.goo.gl/aDhNByD5QWntXAby7)
     - **[補陀洛山寺](https://maps.app.goo.gl/8Q1MapiVzhvVmhdC9)**　24h [渚の森駐車場](https://maps.app.goo.gl/aDhNByD5QWntXAby7)
