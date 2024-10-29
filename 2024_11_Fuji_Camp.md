@@ -47,4 +47,4 @@
 6. [**富士眺望の湯　ゆらり**](https://maps.app.goo.gl/e81HRmhZP23E1v3o6)
 
 7. **忍野八海**
-       - [忍野八海 カ 駐車場](https://maps.app.goo.gl/vXXVMA53MPrECVUK9):300円
+        - [忍野八海 カ 駐車場](https://maps.app.goo.gl/vXXVMA53MPrECVUK9):300円
