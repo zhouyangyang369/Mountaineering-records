@@ -11,6 +11,14 @@
 
 
 ### 一日目（11.02）
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;家出発
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ 🚗高速道路:45km/50分
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**アーバンシルク**](https://maps.app.goo.gl/zSQFXLhrDkzfSu3a8)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ 🚗高速道路:187km/2小时16分
+
 1. [**バロー 新富士店**](https://maps.app.goo.gl/1tiGw5oBHqub9y7N6) 采购食物
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ 🚗20km/30分
