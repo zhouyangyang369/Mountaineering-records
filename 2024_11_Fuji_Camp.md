@@ -11,3 +11,6 @@
 
 
 ### 一日目（11.02）
+### [バロー 新富士店](https://maps.app.goo.gl/1tiGw5oBHqub9y7N6)
+### [白糸の滝](https://maps.app.goo.gl/sLiZHWA1KgsHedUo6)
+#### [まかいの牧場](https://maps.app.goo.gl/5nrYUN7Zx6sZVARo8)
