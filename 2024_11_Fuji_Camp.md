@@ -13,9 +13,14 @@
 ### 一日目（11.02）
 1. [**バロー 新富士店**](https://maps.app.goo.gl/1tiGw5oBHqub9y7N6) 采购食物
 
-  ⬇️ 🚗20km/30分
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ 🚗20km/30分
 
 2. [**白糸の滝**](https://maps.app.goo.gl/sLiZHWA1KgsHedUo6)
   - 駐車場500円
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ 🚗2.1km/4分
 
 3. [**まかいの牧場**](https://maps.app.goo.gl/5nrYUN7Zx6sZVARo8)
+  - チケット:1200円/1人
+
+4. [富岳風穴](https://maps.app.goo.gl/FxvAYczbmBbUbU4T6)
+ - チケット:350円/1人
