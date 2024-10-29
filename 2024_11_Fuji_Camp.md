@@ -46,5 +46,11 @@
 
 6. [**富士眺望の湯　ゆらり**](https://maps.app.goo.gl/e81HRmhZP23E1v3o6)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ 🚗16km/30分
+
 7. **忍野八海**
    - [忍野八海 カ 駐車場](https://maps.app.goo.gl/vXXVMA53MPrECVUK9):300円
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ 🚗高速道路:246km/3小时
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**アーバンシルク**](https://maps.app.goo.gl/zSQFXLhrDkzfSu3a8)
