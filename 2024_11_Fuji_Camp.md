@@ -25,5 +25,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ 🚗25km/30分
 
-4. [富岳風穴](https://maps.app.goo.gl/FxvAYczbmBbUbU4T6)
+4. [**富岳風穴**](https://maps.app.goo.gl/FxvAYczbmBbUbU4T6)
  - チケット:350円/1人
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ 🚗10km/13分
+
+5. **本栖湖周りキャンプ場**
