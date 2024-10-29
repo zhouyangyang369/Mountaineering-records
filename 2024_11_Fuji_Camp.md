@@ -11,8 +11,9 @@
 
 
 ### 一日目（11.02）
-1. [**バロー 新富士店**](https://maps.app.goo.gl/1tiGw5oBHqub9y7N6)
-
+1. [**バロー 新富士店**](https://maps.app.goo.gl/1tiGw5oBHqub9y7N6) 采购食物
+  ⬇️ 🚗20km/30分
 2. [**白糸の滝**](https://maps.app.goo.gl/sLiZHWA1KgsHedUo6)
+  - 駐車場500円
 
-3. [**まかいの牧場**](https://maps.app.goo.gl/5nrYUN7Zx6sZVARo8)
+4. [**まかいの牧場**](https://maps.app.goo.gl/5nrYUN7Zx6sZVARo8)
