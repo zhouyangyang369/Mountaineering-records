@@ -17,10 +17,13 @@
 
 2. [**白糸の滝**](https://maps.app.goo.gl/sLiZHWA1KgsHedUo6)
   - 駐車場500円
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ 🚗2.1km/4分
 
 3. [**まかいの牧場**](https://maps.app.goo.gl/5nrYUN7Zx6sZVARo8)
   - チケット:1200円/1人
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇️ 🚗25km/30分
 
 4. [富岳風穴](https://maps.app.goo.gl/FxvAYczbmBbUbU4T6)
  - チケット:350円/1人
